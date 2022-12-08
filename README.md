@@ -1,5 +1,5 @@
 # Quem-Somos
-Apresentação da OSC OIKA
+Apresentação da OSC OIKA (Lei nº 13.019/14) Organização da Sociedade Civil
 
 INOVAÇÃO ORGANIZACIONAL NA TRANSIÇÃO DE RESÍDUOS PARA COMBUSTÍVEL E ENERGIA RENOVÁVEL: Dimensionamento de Micro Usinas CDR/WTE Bioeconomia Popular Solidária em Contornos com Determinantes da Saúde SUS - Sustentabilidade
 
