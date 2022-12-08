@@ -1,5 +1,5 @@
 # Quem-Somos
-Agencia Reguladora OSC OIKA (Lei nº 13.019/14 - Lei nº 8.142/90) à efetiva extensão de Multua Proteção Participativa Autogestão SUS.
+Agencia Reguladora OSC OIKA (Lei nº 13.019/14 - Lei nº 8.142/90) de Efetiva Extensão, Proteção Participativa, Autogestão SUS.
 
 INOVAÇÃO ORGANIZACIONAL NA SINERGIA DE GRUPO À TRANSIÇÃO DE RESÍDUOS PARA COMBUSTÍVEL E ENERGIA RENOVÁVEL: Dimensionamento de Micro Usinas CDR/WTE e Bioeconomia Popular Solidária em Contornos com Determinantes da Saúde SUS - Sustentabilidade: Economicos, Sociais e Ambientais.
 
