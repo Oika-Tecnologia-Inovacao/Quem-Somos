@@ -5,6 +5,7 @@ INOVAÇÃO ORGANIZACIONAL NA SINERGIA DE GRUPO À TRANSIÇÃO DE RESÍDUOS PARA 
 
 Organização da Sociedade Científico civil Indígena de Interes Público Economico Ambiental Sustentável 
 ![image](https://user-images.githubusercontent.com/120027241/206472640-e9be798d-f087-4efb-9534-5ff73cf11636.png)
+
 Invento Social Públicado pelo INPI/2010 - Requer Incentivos art. 5° XXIX CF/88
 ![image](https://user-images.githubusercontent.com/120027241/206685563-83785cf5-68f6-41c6-a46d-e339451c5d0c.png)
  
