@@ -9,4 +9,4 @@ INOVAÇÃO ORGANIZACIONAL NA SINERGIA DE GRUPO À TRANSIÇÃO DE RESÍDUOS PARA 
  
 ![image](https://user-images.githubusercontent.com/120027241/206484432-e2221bfa-f4f9-4150-8473-dbd8c20f3b9b.png)
 
-![image](https://user-images.githubusercontent.com/120027241/206856663-a44056b7-3d9f-42ec-8270-fb797d1c9e82.png)
+![image](https://user-images.githubusercontent.com/120027241/206857034-c26d3204-ea19-45f4-9df1-24c0c2e653b8.png)
