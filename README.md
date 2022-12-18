@@ -6,9 +6,13 @@ INOVAÇÃO ORGANIZACIONAL NA SINERGIA DE GRUPO À TRANSIÇÃO DE RESÍDUOS PARA 
 Organização da Sociedade Científico civil Indígena de Interes Público Economico Ambiental Sustentável -OSC Oika 
 ![image](https://user-images.githubusercontent.com/120027241/206472640-e9be798d-f087-4efb-9534-5ff73cf11636.png)
 Invento Social Públicado pelo INPI/2010 - Requer Incentivos art. 5° XXIX CF/88
+
 ![image](https://user-images.githubusercontent.com/120027241/206685563-83785cf5-68f6-41c6-a46d-e339451c5d0c.png)
 
 ![image](https://user-images.githubusercontent.com/120027241/207114532-0db0ec44-af40-490a-a276-11a3353c498d.png)
+
+file:///home/hermanodasilveira/Imagens/2004%20Dispacho%20Gabinete%20Presidente%20Lula.png![image](https://user-images.githubusercontent.com/120027241/208316502-37d5b64d-ad1e-436b-807e-6b92c01c1939.png)
+
 
 ![image](https://user-images.githubusercontent.com/120027241/206484432-e2221bfa-f4f9-4150-8473-dbd8c20f3b9b.png)
 
