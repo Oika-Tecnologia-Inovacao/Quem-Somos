@@ -11,8 +11,7 @@ Invento Social Públicado pelo INPI/2010 - Requer Incentivos art. 5° XXIX CF/88
 
 ![image](https://user-images.githubusercontent.com/120027241/207114532-0db0ec44-af40-490a-a276-11a3353c498d.png)
 
-file:///home/hermanodasilveira/Imagens/2004%20Dispacho%20Gabinete%20Presidente%20Lula.png![image](https://user-images.githubusercontent.com/120027241/208316502-37d5b64d-ad1e-436b-807e-6b92c01c1939.png)
-
+![image](https://user-images.githubusercontent.com/120027241/208523898-4e2ed779-448d-4d62-b25e-282c87678d7f.png)
 
 ![image](https://user-images.githubusercontent.com/120027241/206484432-e2221bfa-f4f9-4150-8473-dbd8c20f3b9b.png)
 
