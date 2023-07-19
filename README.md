@@ -9,8 +9,11 @@ Atividades compreendidas pela OIKA(presentes em seu CNPJ):
 Projeto atual sendo desenvolvido pela OIKA:
 VILA DOS CATADORES DE UBERLÂNDIA
 
-Descrição:
+**Descrição:
 Em regate à dignidade dos catadores de recicáveis em situação de rua na cidade de Uberlândia, a OIKA desenvolve uma planta industrial com a finalidade de transformar resíduos de baixo valor em materiais e produtos de alto valor agregado(combustíveis e energia renoável em bioeconomia popular solidária) ao mesmo tempo em que usa o lucro obtido no processo para construir uma vila auto-sustentável para acolher os catadores e garantir à eles renda, moradia, alimentação e um ambiente comunitário saudável, onde possam participar de projetos inovadores de pesquisa, palestras e cursos voltados à temas de cunho tecnológico e sustentável. O modelo permite resgatar estas pessoas com um custo mínimo e agrega ao máximo para a sociedade, utilizando a efetiva extensão para garantias dos determinantes da saúde do sistema SUS, como parcerias com a UFU para atendimento psicológico, parcerias com empresas e unidades de ensino voltadas à capacitação profissional e, por fim, um processo todo voltado à pessoas que produza de forma ecológica, visando um processo com pegada de carbono negativa ao passo de proporcionar inovações tecnológicas no processamento de Resíduos Sólidos Urbanos. As parcerias deverão, ainda, contemplar a UFU para uso em extensão e pesquisa na planta, onde espera-se avanços tecnológicos em biocombustíveis, pesquisa com grafeno, geração de energia renovável, polímeros, fertilizantes, tecnologias sociais e de produção.
+**
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/44cce76b-1bb9-455a-9a2a-bce2cc71324e)
+
 
 ![image](https://user-images.githubusercontent.com/120027241/206472640-e9be798d-f087-4efb-9534-5ff73cf11636.png)
 Invento Social Públicado pelo INPI/2010 - Requer Incentivos art. 5° XXIX CF/88
