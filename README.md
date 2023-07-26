@@ -16,7 +16,7 @@ VILA DOS CATADORES DE UBERLÂNDIA
  
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/44cce76b-1bb9-455a-9a2a-bce2cc71324e)
 
-# Tecnologias sendo visadas pelo projeto e suas descrições
+# Tecnologias sendo visadas pelo projeto:
 
 Pirólise em Leito Fluidizado Circulante(CFB): A processo chamado de pirólise pode ser resumido em degradar o lixo com calor em um ambiente sem oxigênio, de forma que não haja combustão dos materiais inflamáveis que se soltam, permitindo que eles sejam recuperados. Na prática, o lixo é triturado e inserido em um tubo muito alto, onde há areia quente sendo soprada à uma velocidade de quase 6 metros por segundo, que se mistura com o lixo triturado, realizando o processo de pirólise do material em menos de 2 segundos, o que permitindo tratar uma quantidade grande de material em pouco tempo. O projeto OIKA processa 3 toneladas por hora de material já seco e triturado. A combustão dos gases inflamáveis que são separados gera a pressão e temperatura usados pela máquina, tornando o processo autosustentável.
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/32936bba-5e65-4dd1-804d-56bd7dd0b47f)
@@ -28,6 +28,7 @@ Aquaponia: O cultivo concomitante de peixes e plantas para prover alimento à vi
 
 Permacultura: Toda a vila é planejada e executada como um organismo, de forma que integre os seres humanos, os animais e as plantas em um modelo permanente e ecológico de cultivo. Cada subproduto do processamento do lixo toma parte em algum destes atores, que retorna à todos os outros o que necessitam para se perpetuar em conjunto.
 ![b3a1d519-d0b3-470c-9c79-2933464e6b0c](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/c854204e-f5b0-4654-bb06-c74f31ac70a2)
+![6943a6c6-5372-41f5-8031-db647d869716](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/2d9e8f3d-b59a-4eca-bce6-ed9870c1c81e)
 
 
 Construção ecológica com terra-batida: A utilização de materiais extremamente baratos, como a própria terra disponível ao perfurar os tanques para a aquaponia, corresponde à 90% ou mais do material empregado na construção de paredes. O biocarvão, subproduto da máquina, é utilizado para fazer argamassas. Resinas que são subproduto da máquina serão utilizadas em plásticos para fazer o telhado e objetos decorativos no espaço comunitário. O sistema ecológico de construção das moradias é voltado à redução máxima do custo, utilizando materiais que promovem bom isolamento do frio, ao mesmo tempo que contam com sistemas inteligentes de ventilação e materiais para garantir frescor nos dias quentes.
