@@ -27,7 +27,6 @@ Aquaponia: O cultivo concomitante de peixes e plantas para prover alimento à vi
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/8bdee4d8-a9ec-41e2-82fc-8216180b7ac5)
 
 Permacultura: Toda a vila é planejada e executada como um organismo, de forma que integre os seres humanos, os animais e as plantas em um modelo permanente e ecológico de cultivo. Cada subproduto do processamento do lixo toma parte em algum destes atores, que retorna à todos os outros o que necessitam para se perpetuar em conjunto.
-![b3a1d519-d0b3-470c-9c79-2933464e6b0c](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/c854204e-f5b0-4654-bb06-c74f31ac70a2)
 ![6943a6c6-5372-41f5-8031-db647d869716](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/2d9e8f3d-b59a-4eca-bce6-ed9870c1c81e)
 
 
