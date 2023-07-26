@@ -40,6 +40,10 @@ Modelos de gestão participativa: Através da participação nos processos produ
 
 Modelo de geração de renda baseados em crédito OIKA: O modelo de pagamento pelos serviços de todos os envolvidos inclui participação nos lucros na folha de pagamento da organização. Por exemplo, o catador que traz o resíduo para transformação não ganha apenas o valor daquele material enquanto matéria prima, mas tem sua parte com base no lucro gerado no final do processo. A OIKA prevê a proporcionalidade em bonificações e agradecimentos em forma de prestação pecuniária àqueles que contribuirem para a formação de mais alianças e parcerias, que acabam por beneficiar a renda de todos os envolvidos na vila.
 
+Modelo OIKA de aplicação das ODSs(Objetivos de Desenvolvimento Sustentáveis da ONU): Com parcerias desenvolvida pela OIKA, busca-se implementar atividades culturais, palestras, oficinas e cursos profissionalizantes para capacitar as pessoas e dar oportunidades de desenvolvimento humano integrado do saber e da cultura em palcos e salas de aula ao ar livre.
+![b7778fb1-c50c-46ee-912d-2a4cf90cc99b](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/436dcdd3-5fb5-4d59-9e32-c038a1177614)
+
+
 Nesta arquitetura, conectam-se pessoas em rede de capital social de mútua proteção do Direito e aos bens de acesso aos determinantes da Saúde-SUS, em um módulo econômico mais saudável, que dignifica a pessoa humana em um processo de cidadania.
 
 ![image](https://user-images.githubusercontent.com/120027241/206472640-e9be798d-f087-4efb-9534-5ff73cf11636.png)
