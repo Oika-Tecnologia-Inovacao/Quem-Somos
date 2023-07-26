@@ -19,15 +19,14 @@ VILA DOS CATADORES DE UBERLÂNDIA
 # Tecnologias sendo visadas pelo projeto:
 
 Pirólise em Leito Fluidizado Circulante(CFB): A processo chamado de pirólise pode ser resumido em degradar o lixo com calor em um ambiente sem oxigênio, de forma que não haja combustão dos materiais inflamáveis que se soltam, permitindo que eles sejam recuperados. Na prática, o lixo é triturado e inserido em um tubo muito alto, onde há areia quente sendo soprada à uma velocidade de quase 6 metros por segundo, que se mistura com o lixo triturado, realizando o processo de pirólise do material em menos de 2 segundos, o que permite tratar uma quantidade grande de material em pouco tempo. O projeto OIKA processa 3 toneladas por hora de material já seco e triturado. A combustão dos gases inflamáveis que são separados gera a pressão e temperatura usados pela máquina, tornando o processo autosustentável.
-![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/99d48d79-04fc-4ebd-86dd-3a00d22d7e28)
-
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/32936bba-5e65-4dd1-804d-56bd7dd0b47f)
 
 Produção de energia ligada à rede: Como a produção de energia varia em diferentes turnos, a geração de energia é encaminhada para a rede elétrica, enquanto o consumo de eletricidade pelo próprio processo ou pela vila são descontados do potencial gerado. O tipo do gerador escolhido foi de parafuso único, considerando uma grande eficiência aliada à baixo custo e capacidade da OIKA de usina-lo.
 
 Aquaponia: O cultivo concomitante de peixes e plantas para prover alimento à vila, utilizando plantas com alto teor de proteína e rápida velocidade de reprodução, como a lemna d'agua, para a alimentação dos peixes, utilizando um sistema elétrico de circulação da água para que as plantas limpam resíduos como amônia da água dos peixes.
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/8bdee4d8-a9ec-41e2-82fc-8216180b7ac5)
 
-Permacultura: Toda a vila é planejada e executada como um organismo, de forma que integre os seres humanos, os animais e as plantas em um modelo permanente e ecológico de cultivo. Cada subproduto do processamento do lixo toma parte em algum destes atores, que retorna à todos os outros o que necessitam para se perpetuar em conjunto.
+Permacultura: Toda a vila é planejada e executada como um organismo, de forma que integre os seres humanos, os animais e as plantas em um modelo permanente e ecológico de cultivo. Cada subproduto do processamento do lixo toma parte em algum destes atores, que retorna à todos os outros o que necessitam para se perpetuar em conjunto. Nos caminhos de pesquisa da OIKA, existe uma integração entre os conceitos da agrofloresta e agricultura sintrópica com o processamento da máquina de pirólise para acelerar os processos naturais.
 ![6943a6c6-5372-41f5-8031-db647d869716](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/2d9e8f3d-b59a-4eca-bce6-ed9870c1c81e)
 
 
@@ -42,6 +41,9 @@ Modelo de geração de renda baseados em crédito OIKA: O modelo de pagamento pe
 
 Modelo OIKA de aplicação das ODSs(Objetivos de Desenvolvimento Sustentáveis da ONU): Com parcerias desenvolvida pela OIKA, busca-se implementar atividades culturais, palestras, oficinas e cursos profissionalizantes para capacitar as pessoas e dar oportunidades de desenvolvimento humano integrado do saber e da cultura em palcos e salas de aula ao ar livre.
 ![b7778fb1-c50c-46ee-912d-2a4cf90cc99b](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/436dcdd3-5fb5-4d59-9e32-c038a1177614)
+
+Parceria de cientistas e catadores: Todo o projeto prevê uma integração entre a academia e a vila dos catadores, de forma que a vila tenha acesso à tecnologias e assistência técnica enquanto os pesquisadores usufruem de um ambiente de pesquisa em diferentes temáticas, como o acesso à grafeno, campo de pesquisa na área de biocombustíveis, fertilizantes, agricultura sintrópica, tecnologias sociais e outros. A parceria traz benefícios únicos e mútuos à todos.
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/9bad0078-1771-457b-8834-3496bc10a4b1)
 
 
 Nesta arquitetura, conectam-se pessoas em rede de capital social de mútua proteção do Direito e aos bens de acesso aos determinantes da Saúde-SUS, em um módulo econômico mais saudável, que dignifica a pessoa humana em um processo de cidadania.
