@@ -19,7 +19,6 @@ VILA DOS CATADORES DE UBERLÂNDIA
 # Tecnologias sendo visadas pelo projeto:
 
 Pirólise em Leito Fluidizado Circulante(CFB): A processo chamado de pirólise pode ser resumido em degradar o lixo com calor em um ambiente sem oxigênio, de forma que não haja combustão dos materiais inflamáveis que se soltam, permitindo que eles sejam recuperados. Na prática, o lixo é triturado e inserido em um tubo muito alto, onde há areia quente sendo soprada à uma velocidade de quase 6 metros por segundo, que se mistura com o lixo triturado, realizando o processo de pirólise do material em menos de 2 segundos, o que permite tratar uma quantidade grande de material em pouco tempo. O projeto OIKA processa 3 toneladas por hora de material já seco e triturado. A combustão dos gases inflamáveis que são separados gera a pressão e temperatura usados pela máquina, tornando o processo autosustentável.
-![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/32936bba-5e65-4dd1-804d-56bd7dd0b47f)
 ![create-art-online-8002-Medium-1690388806](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/67429493/0b473934-7510-4450-854d-01d15d471980)
 
 
