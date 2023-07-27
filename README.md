@@ -8,7 +8,7 @@ Atividades compreendidas pela OIKA(presentes em seu CNPJ):
 
 Projeto atual sendo desenvolvido pela OIKA:
 
-VILA DOS CATADORES DE UBERLÂNDIA
+VILA DOS CATADORES DE UBERLÂNDIA 
 
  # Descrição: 
  
