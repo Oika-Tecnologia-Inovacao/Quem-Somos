@@ -6,6 +6,9 @@ Tirado do Estatuto OIKA(disponível para download nos documentos anexos):
 Atividades compreendidas pela OIKA(presentes em seu CNPJ):
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/fe5df262-3d34-4e84-a4c5-37e1a7eb539a)
 
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/67429493/2b9fbf24-9624-4d18-8276-0f5abc9b1c1c)
+
+
 Projeto atual sendo desenvolvido pela OIKA:
 
 VILA DOS CATADORES DE UBERLÂNDIA 
