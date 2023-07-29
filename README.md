@@ -53,6 +53,9 @@ Parceria de cientistas e catadores: Todo o projeto prevê uma integração entre
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/9bad0078-1771-457b-8834-3496bc10a4b1)
 
 
+Parcerias OIKA com a cultura: Conferindo espaço para agentes ligados à cultura, a OIKA planeja oferecer apresentações e oficinas culturais ligadas à teatro, dança, música, pintura, escultura, literatura, cinema e leitura na Vila dos Catadores de Uberlândia.
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/67429493/7eacf9a8-8d0d-4b75-b45d-12bb5218e4ed)
+
 Nesta arquitetura, conectam-se pessoas em rede de capital social de mútua proteção do Direito e aos bens de acesso aos determinantes da Saúde-SUS, em um módulo econômico mais saudável, que dignifica a pessoa humana em um processo de cidadania.
 
 ![image](https://user-images.githubusercontent.com/120027241/206472640-e9be798d-f087-4efb-9534-5ff73cf11636.png)
