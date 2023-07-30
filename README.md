@@ -1,5 +1,5 @@
 # Quem-Somos
-Tirado do Estatuto OIKA(disponível para download nos documentos anexos):
+Tirado do Estatuto OIKA(disponível para download nos documentos anexos): 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/6dc63acb-cc50-459a-bb16-77a8bd0e4a18)
 
 
