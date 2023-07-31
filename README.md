@@ -22,6 +22,13 @@ VILA DOS CATADORES DE UBERLÂNDIA
 
 
 
+# Modelo Jurídico Tecnológico Instituconal de Utilidade Pública Sistema de Parceria Estratégica - Invento INPI
+
+O referido modelo, trata-se de um invento de utilidade pública, depositado e públicado pelo INPI - Instituto Nacional de Propriedade Industrial, cujo invento titular, Hermano da Silveira, faz concessão para as comunidade e entidades do Terceiro Setor com os fins de acionar as parcerias e conecção entre pessoas em constituinte de rede de capital social. O invento em seu desenvolvimento constitui invento coletivo cooperado, tratando em alianças estratégicas (Lei nº 10.973/04), com as disposições das formas organizativas do MROSC - Marco Regulatório do Terceiro Setor (Lei nº 13.019/14), do PNRS - Politica Nacinal de Resíduos Sólidos (Lei nº 12.305/10), do MLI - Marco Legal Institucional (Lei nº 13.243/16), tendo incentivos assegurados no inciso XXIX do Artigo 5º da Constituição Federal, entre outros. Chama atenção que o corpo organizativo OSC Oika, viabiliza para de alianças estratégicas com o Poder Público e com as empresas do Segundo Setor, pois esse "arcabouço jurídico tecnológico" em questão trata-se de parcerias inter-setoriais com a finalidade somar aos esforços Mundial de ODS - Objetivos de Desenvolvimento Sustentável e aos Determiantes da Saúde SUS (Lei nº 8.080/90, Lei nº 8.142/90): Economico, Social e Ambiental. Assim, apresenta-se um convite de somar esforços de pessoas e comunidades em encontos como esses que acontecem no Conselho de Entidades e Comunidades de Uberlândia - MG. OSC Oika Tecnologia e Inovação, Rizoma...  
+
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/d8877bf4-c424-4c6a-a8f8-7194cfdda557)
+
+
 # Tecnologias sendo visadas pelo projeto:
 
 Pirólise em Leito Fluidizado Circulante(CFB): A processo chamado de pirólise pode ser resumido em degradar o lixo com calor em um ambiente sem oxigênio, de forma que não haja combustão dos materiais inflamáveis que se soltam, permitindo que eles sejam recuperados. Na prática, o lixo é triturado e inserido em um tubo muito alto, onde há areia quente sendo soprada à uma velocidade de quase 6 metros por segundo, que se mistura com o lixo triturado, realizando o processo de pirólise do material em menos de 2 segundos, o que permite tratar uma quantidade grande de material em pouco tempo. O projeto OIKA processa 3 toneladas por hora de material já seco e triturado. A combustão dos gases inflamáveis que são separados gera a pressão e temperatura usados pela máquina, tornando o processo autosustentável.
