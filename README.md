@@ -30,13 +30,13 @@ O referido modelo, trata-se de um invento de utilidade pública, depositado e p�
 
 
 # Estratégia de Desenvolvimento em Arquitétura de Projeto Cultural:
-No dia 22 de julho de 2023, das 8:30 as 16:30 horas, reuniunem-se no CEC Conselho de Entidades Comunitárias, para atividade integrativas OSC Rizoma as organizações e entidades vinculadas aos agentes captadores de recuros(Marcia Santana, Cosmos, Daniela, Nana, Igor Marani, Hermano da Silveira, Fabim,.....) com finalidades de estudos de Editais de captação de recursos para área da Cultura. Por essa interface, realiza-se Ata Inter - Organizativa de Atividades Organicas associativas em evolução de "parcerias sibiótica" e "alianças estratégicas" descritas no Estatuto da OSC Oika e no art. 3º e 19. da Lei nº 10.973/04.No dia 29 de julho de 2023 fizemos uma segunda 
+No dia 22 de julho de 2023, das 8:30 as 16:30 horas, reuniunem-se no CEC Conselho de Entidades Comunitárias, para atividade integrativas OSC Rizoma as organizações e entidades vinculadas aos agentes captadores de recuros(Marcia Santana, Cosmos, Daniela, Nana, Igor Marani, Hermano da Silveira, Fabim,.....) com finalidades de estudos de Editais de captação de recursos para área da Cultura. Por essa interface, realiza-se Ata Inter - Organizativa de Atividades Organicas associativas em evolução de "parcerias sibiótica" e "alianças estratégicas" descritas no Estatuto da OSC Oika e no art. 3º e 19. da Lei nº 10.973/04.No dia 29 de julho de 2023 fizemos uma segunda reunião onde nos comprometemos com a criação cooperada de rede de capital social cooperativa onde somemos esforços sinérgicos em atendimento a dignidade de vida em primeiro lugar. 
 
-https://pps.whatsapp.net/v/t61.24694-24/357982622_977846973426327_6430411312903445920_n.jpg?ccb=11-4&oh=01_AdRhQfXb1NF4SXe9K4XBLI46jPWjofBPdkJ2u_6TgJPGdA&oe=64D504D3
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/f7392b1d-30c6-4b1a-8b19-7fd371e49aca)
 
-blob:https://web.whatsapp.com/da5ef2ae-1693-4de9-b416-ad453330aed1
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/c422ac91-d8cf-4687-bab7-deb8ba0b5295)
 
-blob:https://web.whatsapp.com/d391e54a-58ed-4bcb-80ee-5c136152ea0e
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/d0dc38d7-97af-4ff8-9449-16e125e5f001)
 
 
 # Tecnologias sendo visadas pelo projeto:
