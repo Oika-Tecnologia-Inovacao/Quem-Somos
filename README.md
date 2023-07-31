@@ -29,6 +29,16 @@ O referido modelo, trata-se de um invento de utilidade pública, depositado e p�
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/d8877bf4-c424-4c6a-a8f8-7194cfdda557)
 
 
+# Estratégia de Desenvolvimento em Arquitétura de Projeto Cultural:
+No dia 22 de julho de 2023, das 8:30 as 16:30 horas, reuniunem-se no CEC Conselho de Entidades Comunitárias, para atividade integrativas OSC Rizoma as organizações e entidades vinculadas aos agentes captadores de recuros(Marcia Santana, Cosmos, Daniela, Nana, Igor Marani, Hermano da Silveira, Fabim,.....) com finalidades de estudos de Editais de captação de recursos para área da Cultura. Por essa interface, realiza-se Ata Inter - Organizativa de Atividades Organicas associativas em evolução de "parcerias sibiótica" e "alianças estratégicas" descritas no Estatuto da OSC Oika e no art. 3º e 19. da Lei nº 10.973/04.No dia 29 de julho de 2023 fizemos uma segunda 
+
+https://pps.whatsapp.net/v/t61.24694-24/357982622_977846973426327_6430411312903445920_n.jpg?ccb=11-4&oh=01_AdRhQfXb1NF4SXe9K4XBLI46jPWjofBPdkJ2u_6TgJPGdA&oe=64D504D3
+
+blob:https://web.whatsapp.com/da5ef2ae-1693-4de9-b416-ad453330aed1
+
+blob:https://web.whatsapp.com/d391e54a-58ed-4bcb-80ee-5c136152ea0e
+
+
 # Tecnologias sendo visadas pelo projeto:
 
 Pirólise em Leito Fluidizado Circulante(CFB): A processo chamado de pirólise pode ser resumido em degradar o lixo com calor em um ambiente sem oxigênio, de forma que não haja combustão dos materiais inflamáveis que se soltam, permitindo que eles sejam recuperados. Na prática, o lixo é triturado e inserido em um tubo muito alto, onde há areia quente sendo soprada à uma velocidade de quase 6 metros por segundo, que se mistura com o lixo triturado, realizando o processo de pirólise do material em menos de 2 segundos, o que permite tratar uma quantidade grande de material em pouco tempo. O projeto OIKA processa 3 toneladas por hora de material já seco e triturado. A combustão dos gases inflamáveis que são separados gera a pressão e temperatura usados pela máquina, tornando o processo autosustentável.
