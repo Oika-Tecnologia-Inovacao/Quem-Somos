@@ -29,7 +29,7 @@ O referido modelo, trata-se de um invento de utilidade pública, depositado e p�
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/d8877bf4-c424-4c6a-a8f8-7194cfdda557)
 
 
-# Estratégia de Desenvolvimento em Arquitétura de Projeto Cultural:
+# Estratégia de Desenvolvimento em Arquitetura de Projeto Cultural:
 No dia 22 de julho de 2023, das 8:30 as 16:30 horas, reuniunem-se no CEC Conselho de Entidades Comunitárias, para atividade integrativas OSC Rizoma as organizações e entidades vinculadas aos agentes captadores de recuros(Marcia Santana, Cosmos, Daniela, Nana, Igor Marani, Hermano da Silveira, Fabim,.....) com finalidades de estudos de Editais de captação de recursos para área da Cultura. Por essa interface, realiza-se Ata Inter - Organizativa de Atividades Organicas associativas em evolução de "parcerias sibiótica" e "alianças estratégicas" descritas no Estatuto da OSC Oika e no art. 3º e 19. da Lei nº 10.973/04.No dia 29 de julho de 2023 fizemos uma segunda reunião onde nos comprometemos com a criação cooperada de rede de capital social cooperativa onde somemos esforços sinérgicos em atendimento a dignidade de vida em primeiro lugar. 
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/f7392b1d-30c6-4b1a-8b19-7fd371e49aca)
