@@ -41,7 +41,8 @@ No dia 22 de julho de 2023, das 8:30 as 16:30 horas, reuniunem-se no CEC Conselh
 # Posse de Luiz Inácio Lula da Silva em 2023 - Subindo a Rampa Com Catadores, Indios, Negros, Cientítas, OSC´s - Povo Brasileiro 
 Nos também subimos a rampa com Lula. Somos osc - Organização da Sociedade Cientídico Civil Indígena de Interesse Público Economico Ambiental Sustentável - Oika
 
-https://imagens.ebc.com.br/wSBOkUgZbfnsLbGGgs0lB3kLA2o=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/cerimonia_de_posse_luiz_inacio_lula_da_silva_tnrgo_abr_0101233241_0.jpg?itok=QvJu3ik2
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/f71213b9-04ae-42d2-8c0a-2a7ebdd69380)
+
 
 # Tecnologias sendo visadas pelo projeto:
 
