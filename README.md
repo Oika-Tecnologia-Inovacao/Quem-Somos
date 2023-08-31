@@ -49,13 +49,9 @@ Fortalecendo a sociedade civil ao compromisso com a agenda do Marco Regulatório
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/05705efc-5fe3-4922-beb7-07af5594a63f)
 
-
-![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/032f3ffe-afc6-438d-8574-ec56a1fc6ffb)
-
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/6a807b9b-d034-4d8b-afb4-b5b2afea2b3e)
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/90262909-1632-474d-8afc-b018c38aba7b)
-
-
 
 
 # Tecnologias sendo visadas pelo projeto:
