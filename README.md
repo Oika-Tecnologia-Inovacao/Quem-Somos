@@ -43,11 +43,13 @@ Nos também subimos a rampa com Lula. Somos osc - Organização da Sociedade Cie
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/f71213b9-04ae-42d2-8c0a-2a7ebdd69380)
 
-#Encontros da Plataforma MROSC - Marco Regulatório do Terceiro Setor
+#Encontros da Plataforma MROSC - Marco Regulatório do Terceiro Setor 2023
 
 Fortalecendo a sociedade civil ao compromisso com a agenda do Marco Regulatório do Terceiro Setor.
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/05705efc-5fe3-4922-beb7-07af5594a63f)
+
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/2eea1f5c-f2dc-4f8e-9a9e-9e75d37c846a)
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/6a807b9b-d034-4d8b-afb4-b5b2afea2b3e)
 
