@@ -46,6 +46,7 @@ Nos também subimos a rampa com Lula. Somos osc - Organização da Sociedade Cie
 #Encontros da Plataforma MROSC - Marco Regulatório do Terceiro Setor 2023
 
 Fortalecendo a sociedade civil ao compromisso com a agenda do Marco Regulatório do Terceiro Setor.
+A Plataforma por um Novo Marco Regulatório das Organizações da Sociedade Civil - Plataforma MROSC - é uma rede representativa de diversos movimentos sociais, entidades religiosas, OSC, institutos, fundações privadas e cooperativas da economia solidária. Foi criada em 2010 com a finalidade de definir uma agenda comum de incidência da sociedade civil brasileira, em prol da melhoria de seu ambiente de atuação, seja pela regulação, seja pela produção e apropriação de conhecimentos. Composta por mais de 2 mil organizações signatárias, cuja rede indireta alcança mais de 100 mil organizações, a Plataforma destaca o papel das OSC como patrimônio social brasileiro e pilar de nossa democracia.
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/05705efc-5fe3-4922-beb7-07af5594a63f)
 
