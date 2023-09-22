@@ -2,7 +2,6 @@
 Tirado do Estatuto OIKA(disponível para download nos documentos anexos): 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/6dc63acb-cc50-459a-bb16-77a8bd0e4a18)
 
-
 Atividades compreendidas pela OIKA(presentes em seu CNPJ):
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/fe5df262-3d34-4e84-a4c5-37e1a7eb539a)
 
