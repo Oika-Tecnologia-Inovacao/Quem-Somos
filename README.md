@@ -6,6 +6,10 @@ Tirado do Estatuto OIKA(disponível para download nos documentos anexos):
 Atividades compreendidas pela OIKA(presentes em seu CNPJ):
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/fe5df262-3d34-4e84-a4c5-37e1a7eb539a)
 
+INOVAÇÃO ORGANIZACIONAL PARA TRANSIÇÃO DE RESÍDUOS EM COMBUSTÍVEL E ENERGIA RENOVÁVEL: Dimensionamento de Refinarias CDR / WTE
+
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/ec410810-a5fc-4e13-9eb7-9088686d955d)
+
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/67429493/9c6867b2-c8a4-459b-abd6-a627622a9bf8)
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/45665a54-233a-452a-8302-c52ad6de2afb)
