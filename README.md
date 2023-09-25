@@ -12,7 +12,7 @@ Atividades compreendidas pela OIKA(presentes em seu CNPJ):
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/d36fcec2-d23e-465d-b822-0f343d361575)
 
-![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/0ce456f1-bcaa-4afa-91fb-8a54ff4abbcb)
+
 
 Projeto atual sendo desenvolvido pela OIKA:
 
