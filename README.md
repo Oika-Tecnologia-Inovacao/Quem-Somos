@@ -14,7 +14,7 @@ Atividades compreendidas pela OIKA(presentes em seu CNPJ):
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/591888c5-dff7-4bc0-819e-cfb1a8dfcc7e)
 
-Projeto atual sendo desenvolvido pela OIKA: Pos-Graduação em Biocombustível em evolução de Máquinas e Equipamentos de Transição Energética
+Projeto atual sendo desenvolvido pela OIKA: Pos-Graduação em Biocombustível em evolução de Máquinas e Equipamentos de Transição Energética ao desenvolvimento de produtos e processo inovadores por rede de capital social constituída de catadores e cientístas em prospecção de recursos inventivos, à evolução de bioeconomia popular solidária.
 
 VILA DOS CATADORES DE UBERLÂNDIA 
 
