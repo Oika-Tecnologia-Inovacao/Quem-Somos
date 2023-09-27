@@ -68,6 +68,9 @@ A Plataforma por um Novo Marco Regulatório das Organizações da Sociedade Civi
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/3793c35c-14cd-4ba8-8ba7-8ddb43889488)
 
+![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/df5ec770-c5e7-4d13-9953-c48272e2886b)
+Participação Social Oika: Organização da Sociedade Cientifico Civil de Interesse Público Economico Ambiental Sustentável
+
 # Tecnologias sendo visadas pelo projeto:
 
 Pirólise em Leito Fluidizado Circulante(CFB): A processo chamado de pirólise pode ser resumido em degradar o lixo com calor em um ambiente sem oxigênio, de forma que não haja combustão dos materiais inflamáveis que se soltam, permitindo que eles sejam recuperados. Na prática, o lixo é triturado e inserido em um tubo muito alto, onde há areia quente sendo soprada à uma velocidade de quase 6 metros por segundo, que se mistura com o lixo triturado, realizando o processo de pirólise do material em menos de 2 segundos, o que permite tratar uma quantidade grande de material em pouco tempo. O projeto OIKA processa 3 toneladas por hora de material já seco e triturado. A combustão dos gases inflamáveis que são separados gera a pressão e temperatura usados pela máquina, tornando o processo autosustentável.
