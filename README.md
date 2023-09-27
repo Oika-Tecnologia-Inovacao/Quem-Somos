@@ -69,7 +69,9 @@ A Plataforma por um Novo Marco Regulatório das Organizações da Sociedade Civi
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/3793c35c-14cd-4ba8-8ba7-8ddb43889488)
 
 ![image](https://github.com/Oika-Tecnologia-Inovacao/Quem-Somos/assets/120027241/df5ec770-c5e7-4d13-9953-c48272e2886b)
-Participação Social Oika: Organização da Sociedade Cientifico Civil de Interesse Público Economico Ambiental Sustentável
+
+Participação Social Oika: Organização da Sociedade Cientifico Civil Indigena de Interesse Público Economico Ambiental Sustentável
+Alianças Estratégicas Intersetoriais: Administração Pública Federal AE OSSCCIPEA AE Iniciativa Privada
 
 # Tecnologias sendo visadas pelo projeto:
 
